@@ -25,6 +25,6 @@ to Install
 2. download the myPower Remote.apk file to android device and install
 
 **Windows/Linux**
-1. Download this project and place into preferred folder
+1. Download desired zip file (Windows/Linux) and Unzip into preferred folder
 2. run the myPower Remote executable
 3. Input the IP address from the Raspberry Pi or Auto Search for the myPower Server.
