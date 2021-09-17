@@ -17,14 +17,14 @@ MUST HAVE the myPower Raspberry Pi (https://github.com/km6wye/myPower) program r
 to Install
 
 **Android**
-Enable "Install From Unknown Sources"
+1. Enable "Install From Unknown Sources"
 
     Navigate to Setting > Security.
     Check the option “Unknown sources“.
 
-download the myPower Remote.apk file to android device and install
+2. download the myPower Remote.apk file to android device and install
 
 **Windows/Linux**
-Download this project and place into preferred folder
-run the myPower Remote executable
-Input the IP address from the Raspberry Pi or Auto Search for the myPower Server.
+1. Download this project and place into preferred folder
+2. run the myPower Remote executable
+3. Input the IP address from the Raspberry Pi or Auto Search for the myPower Server.
