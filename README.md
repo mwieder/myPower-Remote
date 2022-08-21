@@ -1,5 +1,6 @@
 # myPower-Remote
 A Remote companion application for the myPower Raspberry Pi program.
+My updated version of Bill Hanken's original (https://github.com/km6wye/myPower-Remote)
 
 myPower Remote uses Wifi to collect data from the myPower Raspberry Pi program and displays it in user friendly formats featufing:
 
@@ -12,7 +13,7 @@ myPower Remote uses Wifi to collect data from the myPower Raspberry Pi program a
 
 Runs on Windows, Android, and Linux
 
-MUST HAVE the myPower Raspberry Pi (https://github.com/km6wye/myPower) program running on the same network as this program
+MUST HAVE the myPower Raspberry Pi (https://github.com/mwieder/myPower) program running on the same network as this program
 
 to Install
 
